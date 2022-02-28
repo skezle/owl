@@ -1,0 +1,17 @@
+*.idea
+runs/
+__pycache__/
+*.gif
+checkpoints/
+*.pdf
+*.png
+runs_minigrid/
+data/
+*.ipynb
+*.npy
+*.drawio
+*.svg
+*.icloud
+paper/
+*.pickle
+commands.sh
