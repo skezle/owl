@@ -20,6 +20,11 @@ To run the full rehearsal baseline:
 
 `python train_minigrid.py --env=SC --num_tasks=5 --num_task_repeats=3 --max_task_frames=750000 --log_interval=8000 --env_seeds 111 129 112 105 155 --tag=fr_x5_s101 --exp_replay_capacity=750000 --seed=101 --huber --logdir=logs  --multitask`
 
+## Dependencies
+
+- `gym==0.18.0`
+- `gym-minigrid==1.0.2`
+
 ## Citation
 
 ```
