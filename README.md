@@ -23,10 +23,10 @@ To run the full rehearsal baseline:
 ## Citation
 
 ```
-@article{kessler2021same,\
-  title={Same state, different task: Continual reinforcement learning without interference},\
-  author={Kessler, Samuel and Parker-Holder, Jack and Ball, Philip and Zohren, Stefan and Roberts, Stephen J},\
-  journal={arXiv preprint arXiv:2106.02940},\
-  year={2021},\
+@article{kessler2021same,
+  title={Same state, different task: Continual reinforcement learning without interference},
+  author={Kessler, Samuel and Parker-Holder, Jack and Ball, Philip and Zohren, Stefan and Roberts, Stephen J},
+  journal={arXiv preprint arXiv:2106.02940},
+  year={2021},
 }
 ```
